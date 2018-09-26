@@ -1,0 +1,6 @@
+C:\Users\etec\Desktop\projeto\projeto\projeto\bin\Debug\projeto.exe.config
+C:\Users\etec\Desktop\projeto\projeto\projeto\bin\Debug\projeto.exe
+C:\Users\etec\Desktop\projeto\projeto\projeto\bin\Debug\projeto.pdb
+C:\Users\etec\Desktop\projeto\projeto\projeto\obj\Debug\projeto.csprojResolveAssemblyReference.cache
+C:\Users\etec\Desktop\projeto\projeto\projeto\obj\Debug\projeto.exe
+C:\Users\etec\Desktop\projeto\projeto\projeto\obj\Debug\projeto.pdb
