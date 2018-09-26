@@ -18,6 +18,8 @@ namespace projeto
 
                 double valorDoProduto, valorTotal;
 
+                Console.WriteLine("***** Excercicio 4 - Avaliaçao 1 *****");
+
                 Console.Write("Digite o nome do produto: ");
                 nomeDoProduto = Console.ReadLine();
 
